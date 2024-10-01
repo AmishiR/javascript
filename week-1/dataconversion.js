@@ -41,5 +41,7 @@
 // console.log(Boolean(emptyArray)); 
 // console.log(Boolean(emptyFunction));
 
+
+/////conversion can be made in Number , String , Boolean , BigInt , Symbol , Object
 /////falsely values- 0,on,"",null,undefined,NaN
 /////truthly values- "0"," ","false",[],fucntion(){}
