@@ -36,4 +36,5 @@ const obj2={
 
 const a = [1, 2, 3];
 const b = "1,2,3";
-//console.log(a == b); // true, `a` converts to string
+console.log(a == b); 
+// true, `a` converts to string
