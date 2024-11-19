@@ -22,8 +22,8 @@ let score= "125abc"
 let score2="125"
 let convert5 = Number(score)
 let convert6= Number(score2)
-// console.log(convert5)
-// console.log(convert6)
+//console.log(convert5)
+//console.log(convert6)
 /////"125abc"=>Nan on number conversion
 /////where as 125 in string will be number in 125
 
@@ -38,10 +38,10 @@ let convert8=Number(b)
 let emptyArray = [];
 let emptyFunction = function() {};
 
-// console.log(Boolean(emptyArray)); 
-// console.log(Boolean(emptyFunction));
+//console.log(Boolean(emptyArray)); 
+//console.log(Boolean(emptyFunction));
 
-
+              /////SUMMARY
 /////conversion can be made in Number , String , Boolean , BigInt , Symbol , Object
 /////falsely values- 0,on,"",null,undefined,NaN
 /////truthly values- "0"," ","false",[],fucntion(){}

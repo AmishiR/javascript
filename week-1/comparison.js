@@ -1,6 +1,6 @@
 //console.log("2">1)///type changed to check
 
-    ////Null
+    ////Null 
 console.log(null>0)//0>0 is false
 console.log(null==0)// null here is kept as it is so false
 console.log(null>=0)//0>=0 so 0=0 so true
